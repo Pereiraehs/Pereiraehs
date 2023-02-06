@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Henrique!</h1>
-<h3 align="center">A Biochemist studying Data Science</h3>
+<h1 align="left">Hi 👋, I'm Henrique!</h1>
+<h3 align="left">A Biochemist studying Data Science</h3>
 
 - 🌱 I’m currently learning **Docker and SQL**
 
